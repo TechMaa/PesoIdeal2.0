@@ -1,0 +1,15 @@
+C:\Users\matheuscs\Documents\PesoIdeal2.0\PesoIdeal2.0\PesoIdeal2.0\bin\Debug\net6.0\PesoIdeal2.0.exe
+C:\Users\matheuscs\Documents\PesoIdeal2.0\PesoIdeal2.0\PesoIdeal2.0\bin\Debug\net6.0\PesoIdeal2.0.deps.json
+C:\Users\matheuscs\Documents\PesoIdeal2.0\PesoIdeal2.0\PesoIdeal2.0\bin\Debug\net6.0\PesoIdeal2.0.runtimeconfig.json
+C:\Users\matheuscs\Documents\PesoIdeal2.0\PesoIdeal2.0\PesoIdeal2.0\bin\Debug\net6.0\PesoIdeal2.0.dll
+C:\Users\matheuscs\Documents\PesoIdeal2.0\PesoIdeal2.0\PesoIdeal2.0\bin\Debug\net6.0\ref\PesoIdeal2.0.dll
+C:\Users\matheuscs\Documents\PesoIdeal2.0\PesoIdeal2.0\PesoIdeal2.0\bin\Debug\net6.0\PesoIdeal2.0.pdb
+C:\Users\matheuscs\Documents\PesoIdeal2.0\PesoIdeal2.0\PesoIdeal2.0\obj\Debug\net6.0\PesoIdeal2.0.csproj.AssemblyReference.cache
+C:\Users\matheuscs\Documents\PesoIdeal2.0\PesoIdeal2.0\PesoIdeal2.0\obj\Debug\net6.0\PesoIdeal2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheuscs\Documents\PesoIdeal2.0\PesoIdeal2.0\PesoIdeal2.0\obj\Debug\net6.0\PesoIdeal2.0.AssemblyInfoInputs.cache
+C:\Users\matheuscs\Documents\PesoIdeal2.0\PesoIdeal2.0\PesoIdeal2.0\obj\Debug\net6.0\PesoIdeal2.0.AssemblyInfo.cs
+C:\Users\matheuscs\Documents\PesoIdeal2.0\PesoIdeal2.0\PesoIdeal2.0\obj\Debug\net6.0\PesoIdeal2.0.csproj.CoreCompileInputs.cache
+C:\Users\matheuscs\Documents\PesoIdeal2.0\PesoIdeal2.0\PesoIdeal2.0\obj\Debug\net6.0\PesoIdeal2.0.dll
+C:\Users\matheuscs\Documents\PesoIdeal2.0\PesoIdeal2.0\PesoIdeal2.0\obj\Debug\net6.0\ref\PesoIdeal2.0.dll
+C:\Users\matheuscs\Documents\PesoIdeal2.0\PesoIdeal2.0\PesoIdeal2.0\obj\Debug\net6.0\PesoIdeal2.0.pdb
+C:\Users\matheuscs\Documents\PesoIdeal2.0\PesoIdeal2.0\PesoIdeal2.0\obj\Debug\net6.0\PesoIdeal2.0.genruntimeconfig.cache
